@@ -3,7 +3,7 @@
 ## This is tharani, computer science student (2019-2023) in batchelor's of technology from KL University.
 ## 👨🏻‍💻 I have strong cloud computing skills and Full Stack development skills
 ## 🎯Very ambitious and Super curious girl to learn and seek everything
-## 💪I would love to exercise ad meditate every single day
+## 💪I would love to exercise and meditate every single day
 ## 💬 Reach me through either mail or linkedin
 
 
