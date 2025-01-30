@@ -31,6 +31,6 @@ I am a **Computer Science Master's student (2024-2025)** at **Iowa State Univers
 - Designed a **user-friendly interface** to enhance operational efficiency.  
 
 ## 📫 Let's Connect!  
-🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
+🔗 **LinkedIn**: https://www.linkedin.com/in/tharanivadde/  
 🔗 **GitHub**: [https://github.com/tharani247](https://github.com/tharani247)  
 📧 **Email**: tvadde@iastate.edu  
