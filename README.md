@@ -6,7 +6,7 @@ I am a **Computer Science Master's student (2024-2025)** at **Iowa State Univers
 ## 🏆 Experience & Skills  
 💼 **Graduate Research Assistant (Iowa State University)** - Researching neural network optimization for **3D object classification**.  
 💼 **Former Data Analyst at Red Hat** - Analyzed complex datasets to drive business insights.  
-💼 **QA Intern at Informatica Business Analytics** - Ensured software functionality, scalability, and performance.  
+💼 **Software Engineer at Informatica Business Analytics** - Ensured software functionality, scalability, and performance.  
 
 🔹 **Programming**: C++, Python, Java, JavaScript, React, Node.js  
 🔹 **Cloud & Tools**: Azure, Oracle Cloud, Tableau, DBMS, Unix  
