@@ -3,7 +3,8 @@
 ## 🚀 About Me  
 I am a **Computer Science Master's student (2024-2026)** at **Iowa State University**, passionate about **Cloud Computing, Full Stack Development, and AI-driven solutions**. I am always eager to explore, learn, and innovate in the field of **Machine Learning, Deep Learning, and Software Engineering**.  
 
-## 🏆 Experience & Skills  
+## 🏆 Experience & Skills 
+💼 **Business Data Analyst (Metrica, Inc)** - Designing scalable backend services and CI/CD pipelines for AI-powered analytics across distributed cloud environments.  
 💼 **Graduate Research Assistant (Iowa State University)** - Researching neural network optimization for **3D object classification**.  
 💼 **Former Data Analyst at Red Hat** - Analyzed complex datasets to drive business insights.  
 💼 **Software Engineer at Informatica Business Analytics** - Ensured software functionality, scalability, and performance.  
