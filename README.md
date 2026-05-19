@@ -1,37 +1,58 @@
-# 👋 Hello, I'm Tharani Vadde  
+# Tharani Vadde
 
-## 🚀 About Me  
-I am a **Computer Science Master's student (2024-2026)** at **Iowa State University**, passionate about **Cloud Computing, Full Stack Development, and AI-driven solutions**. I am always eager to explore, learn, and innovate in the field of **Machine Learning, Deep Learning, and Software Engineering**.  
+AI engineer focused on production ML systems and 3D deep learning.
 
-## 🏆 Experience & Skills 
-💼 **Business Data Analyst (Metrica, Inc)** - Designing scalable backend services and CI/CD pipelines for AI-powered analytics across distributed cloud environments.  
-💼 **Graduate Research Assistant (Iowa State University)** - Researching neural network optimization for **3D object classification**.  
-💼 **Former Data Analyst at Red Hat** - Analyzed complex datasets to drive business insights.  
-💼 **Software Engineer at Informatica Business Analytics** - Ensured software functionality, scalability, and performance.  
+I build things that actually ship — automation pipelines that handle real
+compliance data, graph neural networks trained on real point cloud datasets,
+and AI-assisted tools used by people outside of Jupyter notebooks.
 
-🔹 **Programming**: C++, Python, Java, JavaScript, React, Node.js  
-🔹 **Cloud & Tools**: Azure, Oracle Cloud, Tableau, DBMS, Unix  
-🔹 **Data Science**: Machine Learning, Data Visualization, Data Analysis  
-🔹 **Certifications**: Microsoft Azure (AZ-400, AZ-204), Oracle Cloud Architect Associate  
+---
 
-## 📌 Featured Projects  
-🔷 **[Dynamic Graph CNN for Point Cloud Classification](#)**  
-- Implemented a **Dynamic Graph Convolutional Neural Network (DGCNN)** for **3D object classification** using **PyTorch**.  
-- Applied **advanced data augmentation** techniques for improved model robustness.  
+## What I work on
 
-🔷 **[Food Waste Management System](#)**  
-- Developed a **Java-based web application** to **reduce food waste** using Tomcat, Eclipse, and JDK.  
-- Built an **Admin Module** to coordinate donors & recipients efficiently.  
+**At Metrica Inc.** (professional services firm supporting US government IT)
+I design and build automation pipelines and AI-assisted reporting systems
+for enterprise IT operations and compliance. The work runs in production
+and serves federal clients.
 
-🔷 **[Private Digital Forms](#)**  
-- Created a **cloud-based Django & AWS** application for **secure data collection**.  
-- Built an **intuitive platform** for surveys, event registrations, and business forms.  
+**At Iowa State University** (MS Computer Science, advised by Prof. Janelle Rouse)
+I research 3D point cloud classification using Dynamic Graph Convolutional
+Neural Networks (DGCNN). My focus is on model robustness and the gap
+between benchmark accuracy and real-world 3D data behavior.
 
-🔷 **[Supply Chain Management System](#)**  
-- Developed a **Django-based system** with **recommendation algorithms** for business optimization.  
-- Designed a **user-friendly interface** to enhance operational efficiency.  
+---
 
-## 📫 Let's Connect!  
-🔗 **LinkedIn**: https://www.linkedin.com/in/tharanivadde/  
-🔗 **GitHub**: [https://github.com/tharani247](https://github.com/tharani247)  
-📧 **Email**: tvadde@iastate.edu  
+## Projects
+
+**[DGCNN 3D Point Cloud Classification](https://github.com/tharani247/dgcnn-fall2024)**
+Research implementation extending DGCNN for 3D object classification on
+ModelNet40. Built in PyTorch. Part of my MS research at Iowa State.
+Focus: data augmentation strategies for improving robustness on sparse inputs.
+
+**[Private Digital Forms](https://github.com/tharani247)**
+Cloud-based form and survey platform built with Django and AWS.
+Handles secure data collection for surveys, event registrations, and
+business workflows. Real users, real submissions.
+
+**[Supply Chain Management System](https://github.com/tharani247)**
+Django-based system with recommendation algorithms for operational
+optimization. Built to reduce decision overhead in multi-vendor supply chains.
+
+---
+
+## Background
+
+- M.S. Computer Science — Iowa State University (2024–2026)
+- B.S. Computer Science & Engineering — KL University, India
+- Previously: Data Analyst at Red Hat, Software Engineer at Informatica
+
+---
+
+## Writing
+
+I write about production AI engineering and 3D deep learning.
+Find my articles at [medium.com/@tharanivadde247](https://tharanivadde247.medium.com)
+
+---
+
+**tvadde@iastate.edu** · [LinkedIn](https://www.linkedin.com/in/tharanivadde/) · [Medium](https://tharanivadde247.medium.com)
